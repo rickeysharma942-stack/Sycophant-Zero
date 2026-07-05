@@ -32,7 +32,7 @@
    `API_KEYS=key1,key2,key3`
 
 4. **Run the engine:**
-   `python Sycophant.py --target "your_target_query" --mode recursive`
+   `python Sycophant.py`
 # The "Security & Ethics"
 ### ⚖️ Ethical Use Policy
 Sycophant-Zero is intended for **authorized security auditing and academic research only**. Users are responsible for ensuring their use of this tool complies with the Terms of Service of the API providers and all applicable laws. Do not use this tool for unauthorized access or malicious activities.
