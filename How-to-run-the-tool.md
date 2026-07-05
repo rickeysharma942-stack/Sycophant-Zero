@@ -7,7 +7,7 @@ pip install -r requirements.txt
 You will need to provide your Groq API keys for the engine to function.
 Create a file named api_keys.txt in the project root directory.
 Paste your Groq API keys into this file, one per line.
-Recommendation: Use a minimum of 3 keys to handle rate limiting effectively; 10 keys are highly recommended for uninterrupted performance during intensive tasks.
+Recommendation: Use a minimum of 10 keys to handle rate limiting effectively; 20 keys are highly recommended for uninterrupted performance during intensive tasks.
 3. Executing the Engine
 Once configured, simply launch the tool with the following command:
 python3 Sycophant.py
@@ -15,4 +15,3 @@ python3 Sycophant.py
 Upon launching, the engine will prompt you for the following information to initialize the session:
 Endpoint: api endpint of the model
 Model Name: Enter the specific model you wish to target .
-Attack mode: single turn, multi turn, skeleton attack.
