@@ -9,6 +9,6 @@ Before starting, ensure your system meets the following requirements:
 *   **API Keys**: You must have active API keys for the providers you intend to use (e.g., OpenAI, Anthropic, or local LLM endpoints).
 
 ## 2.Configuration
- *make a file called api_keys.txt in the root folder.
- *add api keys line by line.
+ * make a file called api_keys.txt in the root folder.
+ * add api keys line by line.
  minimum 6 keys and recomanded 30 keys for better experience
