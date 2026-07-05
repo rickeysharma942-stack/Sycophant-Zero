@@ -1,3 +1,5 @@
-aiohttp>=3.9.0
-aiosqlite>=0.20.0
-SQLAlchemy>=2.0.0
+chromadb
+groq
+requests
+beautifulsoup4
+sentence-transformers
