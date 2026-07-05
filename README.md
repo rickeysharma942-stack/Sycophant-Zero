@@ -2,6 +2,11 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+
+![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Sycophant-Zero** is a high-performance, asynchronous orchestration engine designed for large-scale, persistent LLM interaction. It is built for researchers who need to automate complex prompts, manage API-heavy workflows, and maintain state across thousands of recursive turns.
 
