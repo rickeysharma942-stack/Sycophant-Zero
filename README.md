@@ -28,7 +28,7 @@
    `pip install -r requirment.txt`
 
 3. **Configure your environment:**
-   Create a `.env` file with your API keys:
+   Create a `api_keys.txt` file with your API keys:
    `API_KEYS=key1,key2,key3`
 
 4. **Run the engine:**
