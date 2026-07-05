@@ -1,5 +1,1 @@
-chromadb
-groq
-requests
-beautifulsoup4
-sentence-transformers
+requests==2.31.0
