@@ -9,3 +9,5 @@ aiosqlite>=0.20.0
 
 # For parsing and data manipulation
 pydantic>=2.0.0
+# Data manipulation and analysis
+pandas>=2.2.0
